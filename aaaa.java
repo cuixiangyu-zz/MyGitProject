@@ -4,6 +4,6 @@ public class NoUse {
           System.out.println("no use file");
     }
 
-    System.out.println("bbbbbb");
+    System.out.println("bbbb");
 
 }
