@@ -6,5 +6,4 @@ public class NoUse {
 
     System.out.println("bbbbccccc");
     System.out.println("bbbbaaaaaaa");
-    System.out.println("bbbbacccccca");
 }
